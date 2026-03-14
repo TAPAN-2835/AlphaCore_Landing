@@ -52,7 +52,7 @@ const CTASection = () => {
             </MagneticButton>
 
             <button 
-              onClick={() => window.location.href = "https://attack-simulator-alpha-core.vercel.app/"}
+              onClick={() => window.location.href = "https://github.com/TAPAN-2835/AttackSimulator_AlphaCore"}
               className="text-white/40 hover:text-white font-mono uppercase tracking-[0.3em] text-xs transition-colors border-b border-white/5 pb-2 hover:border-primary"
             >
               Explore Documentation

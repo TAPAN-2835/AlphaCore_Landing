@@ -83,7 +83,7 @@ const HeroSection = () => {
                 Start Simulation
               </MagneticButton>
               <MagneticButton 
-                onClick={() => window.location.href = "https://attack-simulator-alpha-core.vercel.app/"}
+                onClick={() => window.location.href = "https://www.linkedin.com/posts/tapan-patel-b91241288_breach2026-economania2026-anirveda-activity-7438651579261620225-kuyO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXNaV0BHy8Iefs5_43eeFfFQjDTzRAqRjo"}
                 variant="ghost" 
                 className="px-10 h-14 text-base font-bold uppercase tracking-widest border-white/10 text-white/70 hover:text-white"
               >
