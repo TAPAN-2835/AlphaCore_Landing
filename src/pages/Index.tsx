@@ -7,6 +7,7 @@ import DashboardSection from "@/components/DashboardSection";
 import LiveStreamSection from "@/components/LiveStreamSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
 import CTASection from "@/components/CTASection";
+import PricingSection from "@/components/PricingSection";
 
 const NetworkVisualization = lazy(() => import("@/components/NetworkVisualization"));
 
@@ -40,6 +41,7 @@ const Index = () => {
 
       <HowItWorksSection />
 
+      <PricingSection />
 
       <CTASection />
 
